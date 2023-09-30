@@ -5,12 +5,13 @@
 
 
 body {
-	background: mediumpurple;
+	background: #D2E0FB;
+	color: #8EACCD;
 }
 
 
 .menu {
-	background: slateblue ;
+	background: #D7E5CA ;
 	width: 70%;
 	height: 60px;
 	margin: auto;
@@ -23,7 +24,7 @@ body {
 .logo {
 	height: 60px;
 	width: 150px;
-	background: yellowgreen;
+	background: blanchedalmond;
 }
 
 
@@ -35,5 +36,27 @@ body {
 .menu-list ul li {
 	display: inline-block;
 	margin-right: 20px;
+
+}
+
+
+.content {
+	width: 60%;
+	min-height: 600px;
+	background: #F9F3CC;
+	margin: auto;
+	padding: 15px;
+	font-size: 23px;
+}
+
+a {
+	text-decoration: none;
+	color: #8EACCD;
+	font-weight: bolder;
+	transition: 0.8s;
+}
+
+a:hover {
+	color: #9fab68;
 	
 }
