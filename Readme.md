@@ -1,18 +1,21 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-  <meta charset="UTF-8">
-  <title>Уроки | Веб-мастеринг</title>
-  	<link rel="stylesheet" href="style.css">
+  <title>Уроки CSS</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Веб-мастеринг</h1>
-
-  <ul>
-    <li><a href="l1/">Урок №1 - Начало</a></li>
-    <li><a href="l2/">Урок №2 - Попытка правильного сайта</a></li>
-    <li></li>
-<li><a href="/">Урок №3 - SOON</a></li>
-  </ul>
+  <header>
+    <h1>Уроки CSS</h1>
+  </header>
+  <main>
+    <ul class="lessons">
+      <li><a href="/web/1 lesson">Урок 1</a></li>
+      <li><a href="/web/2 lesson">Урок 2</a></li>
+      <li><a href="/web/3 lesson">Урок 3</a></li>
+      <li><a href="/web/4 lesson">Урок 4</a></li>
+      <li><a href="/web/5 lesson">Урок 5</a></li>
+    </ul>
+  </main>
 </body>
 </html>
