@@ -64,3 +64,34 @@ a:hover {
 p {
 	margin-top: 20px;
 }
+
+.image {
+	width: 100%;
+}
+
+.i1 {
+	width: 300px;
+
+}
+
+.i2 {
+	height: 200px;
+	
+}
+
+.i3 {
+	width: 100px;
+	height: 200px;
+}
+
+.i4 {
+	width: 300px;
+	height: 300px;
+	background: url(../img/new_img.png);
+}
+
+.i5 {
+	width: 300px;
+	height: 300px;
+	background: url();
+}
