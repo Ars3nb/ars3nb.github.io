@@ -87,6 +87,18 @@ p {
 
 
 
+.images-2 {
+	width: 100%;
+	columns: 4;
+	column-gap: 3px;
+}
+
+
+.images-2 img {
+	width: 100%;
+}
+
+
 /*.i1 {
 	width: 300px;
 
